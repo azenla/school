@@ -40,16 +40,9 @@ In the Vinegar, it will take in the vinegar
 
 ## Observations
 
-<table>
-    <th>Original Weight</th>
-    <th>Weight after Vinegar</th>
-    <th>Weight after Corn Syrup</th>
-    <tr>
-        <td>62.2g</td>
-        <td>91.5g</td>
-        <td>53.6g</td>
-    </tr>
-</table>
+| Original Weight | Weight after Vinegar | Weight after Corn Syrup |
+|:---------------:|:--------------------:|:-----------------------:|
+| 62.2g           | 91.5g                | 53.6g                   |
 
 ## Conclusions
 + Right after putting the egg in the Vinegar the shell was slowly disappearing.
