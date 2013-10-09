@@ -21,22 +21,22 @@ In the Vinegar, it will take in the vinegar
 
 ## Procedures
 
-- Weigh the Raw Egg and record the weight in the table.
-- Place the egg in the cup and pour vinegar over the egg.
-- Record your observations of the egg and the vinegar in your lab notebook.
-- Fill the smaller cup with water and place it on the top of the egg.
-- Write your group names on the outside of the cup.
-- Answer the Day 1 Questions in the discussion section.
-- Remove the egg from the cup and dry it off with a paper towel. 
-- Carefully remove any pieces of shell that may be attached to the egg. (If the shell is still really attached, just leave it alone).
-- Weigh the egg and record the weight in the table.
-- Pour out the vinegar from the cup. 
-- Fill the cup with either corn syrup or water. 
-- Answer the Day 2 Questions in the discussion section.
-- Remove the egg from the cup and dry it off.
-- Weigh the egg and record the weight in the table.
-- Empty the cups and clean up your lab area.
-- Answer the rest of the discussion questions.
+1. Weigh the Raw Egg and record the weight in the table.
+2. Place the egg in the cup and pour vinegar over the egg.
+3. Record your observations of the egg and the vinegar in your lab notebook.
+4. Fill the smaller cup with water and place it on the top of the egg.
+5. Write your group names on the outside of the cup.
+6. Answer the Day 1 Questions in the discussion section.
+7. Remove the egg from the cup and dry it off with a paper towel. 
+8. Carefully remove any pieces of shell that may be attached to the egg. (If the shell is still really attached, just leave it alone).
+9. Weigh the egg and record the weight in the table.
+10. Pour out the vinegar from the cup. 
+11. Fill the cup with either corn syrup or water. 
+12. Answer the Day 2 Questions in the discussion section.
+13. Remove the egg from the cup and dry it off.
+14. Weigh the egg and record the weight in the table.
+15. Empty the cups and clean up your lab area.
+16. Answer the rest of the discussion questions.
 
 ## Observations
 
