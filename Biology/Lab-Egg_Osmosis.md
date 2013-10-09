@@ -4,9 +4,9 @@
 Determine how the concentration of the solution affects Osmosis.
 
 ## Hypothesis
- In the Vinegar, it will take in the vinegar and get larger. 
+In the Vinegar, it will take in the vinegar and get larger. 
  
- However, in the corn syrup, it will get smaller, because it is pushing the vinegar out.
+However, in the corn syrup, it will get smaller, because it is pushing the vinegar out.
 
 ## Safety Concerns
 
