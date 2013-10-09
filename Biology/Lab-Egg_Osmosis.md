@@ -4,7 +4,9 @@
 Determine how the concentration of the solution affects Osmosis.
 
 ## Hypothesis
-In the Vinegar, it will take in the vinegar
+ In the Vinegar, it will take in the vinegar and get larger. 
+ 
+ However, in the corn syrup, it will get smaller, because it is pushing the vinegar out.
 
 ## Safety Concerns
 
@@ -47,4 +49,4 @@ In the Vinegar, it will take in the vinegar
 ## Conclusions
 + Right after putting the egg in the Vinegar the shell was slowly disappearing.
 + After the egg was put in the corn syrup, it became shriveled up, and the shell was gone.
-+ The hypothesis was supported. After the egg was put in the solutions, it took in the vinegar and corn syrup.
++ The hypothesis was supported. After the egg was put in the vinegar, it took it in, and got larger. However, after it sat in the Corn Syrup, it got rid of the vinegar
