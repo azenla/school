@@ -1,4 +1,4 @@
-Welcome to my School Work Repository.
+# School Work
 
 ### Contains
 This repository contains a lot of my work I do During and After School.
