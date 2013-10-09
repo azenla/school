@@ -13,4 +13,4 @@
 
 Others given permission from the SAI, AI, or primary staff members.
 
-Violations will result in immediate designation of 25 pushups.
+***Violations will result in immediate designation of 25 pushups.***
