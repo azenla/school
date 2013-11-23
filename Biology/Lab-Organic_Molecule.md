@@ -33,4 +33,4 @@ Cheetos will burn the best.
 8. Record values on the table.
 9. Rinse out flask and fill it again.
 10. Repeat steps above for the 3 foods.
-11. After you are done, cleand and dry flask, pan, and needle. Dry off thermometer. Fill in the "Actual Results" column in your chart on the first page.
+11. After you are done, clean and dry flask, pan, and needle. Dry off thermometer. Fill in the "Actual Results" column in your chart on the first page.
